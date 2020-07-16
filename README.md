@@ -1,3 +1,5 @@
+# [DEPRECATED] 请移步至新的仓库地址: [explorer-device-android](https://github.com/tencentyun/iot-device-android/tree/master/explorer-device-android)
+
 # 腾讯物联网开发平台Android SDK
 腾讯物联开发平台 Android SDK 配合平台对设备数据模板化的定义，实现和云端基于数据模板协议的数据交互框架，开发者基于IoT_Explorer Android SDK数据模板框架，快速实现设备和平台、设备和应用之间的数据交互。
 
